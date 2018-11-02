@@ -11,6 +11,7 @@
 ## 项目组成员
       某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
       吴彪  11710219@mail.sustc.edu.cn (BioWool)  平台在广告推广上的应用
+      徐天元 11710208@mail.sustc.edu.cn 策划
 ### 联系 ###
 [NKXLAB](https://github.com/NKXLAB)
     [南方科技大学-XLAB]QQ群：532614505
