@@ -24,4 +24,4 @@
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
  
 ## 背景资料
-    沈天泽
+    协调人：沈天泽，邮箱：11749098@mail.sustc.edu.cn
